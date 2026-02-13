@@ -1,90 +1,117 @@
-# Daniel Andria — Virtual Assistant  
-*Remote Administrative & Accounting Support | Data Management | Digital Services*
+# DANIEL ANDRIA - Assistant Virtuel
+**Gestion Administrative | Comptabilité | Support Digital**
 
-📍 Antsirabe, Madagascar  
-📞 +261 34 20 29 722  
-📧 nirinafanomezantsoadaniel@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/daniel-andria-15875b278) | [Facebook](https://www.facebook.com/daniel.andria.446021)  
+📍 Antsirabe, Madagascar | 📞 +261 34 20 29 722 | 📧 nirinafanomezantsoadaniel@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-andria-15875b278) | 🔗 [Facebook](https://www.facebook.com/daniel.andria.446021) | 💬 WhatsApp: +261342029722
 
 ---
 
-## 👋 Hello & Welcome  
-
-I am a **professional Virtual Assistant** with strong skills in **administrative support, accounting, data entry, and online customer service**. I help business owners, entrepreneurs and remote teams increase productivity and streamline their operations.  
-
-With a **BTS in Management (BAC+2)** and real-world experience, I combine strong attention to detail with digital efficiency to support my clients remotely and internationally. Clients can expect responsive communication, organized workflow, and deliverables completed on time.
+## PROFIL
+Assistant virtuel rigoureux et autonome, spécialisé en gestion administrative, comptabilité, traitement de données et support commercial en ligne. Titulaire d'un BTS en Gestion (BAC+2), je combine discipline administrative, maîtrise des outils numériques et sens commercial pour aider les entreprises à gagner en efficacité et en performance.
 
 ---
 
-## 💼 Core Services
+## COMPÉTENCES CLÉS
 
-### 📊 Administrative & Accounting Support
-- Full internal accounting support  
-- Financial reporting and data tracking  
-- Filing, documentation and digital records  
-- Assistance with invoicing, basic bookkeeping  
+**📊 Comptabilité & Gestion Financière**
+• Gestion complète de la comptabilité interne
+• Suivi des déclarations fiscales et sociales
+• Révision mensuelle des comptes
+• Reporting financier
+• Logiciels : Sage, Ciel Compta
 
-### 🗂 Data Management & Processing  
-- Accurate data entry and database organization  
-- Spreadsheet design & data structuring  
-- Email & document management  
-- Online system updates
+**🗂 Gestion Administrative**
+• Saisie et traitement de données
+• Organisation d'agendas
+• Gestion des dossiers administratifs
+• Digitalisation des processus RH
 
-### 🌐 Remote Virtual Assistance  
-- Schedule & calendar management  
-- Email support and correspondence  
-- Online customer service  
-- Project follow-up and administrative workflows
+**🌐 Assistant Virtuel & Télétravail**
+• Support administratif à distance
+• Transcription audio / vidéo / image
+• Création de rapports
+• Gestion de bases de données
 
-### 🛍️ E-Commerce & Online Support  
-- Customer relations management  
-- Order tracking & support  
-- Product listing updates  
-- Online communication with customers
+**📢 Marketing Digital & Vente**
+• Vente en ligne (Facebook)
+• Relation client (email, téléphone, chat)
+• Négociation commerciale
+• Prise de rendez-vous
 
----
-
-## 🚀 Key Projects & Repositories
-
-Below are some of my **featured projects** demonstrating real work and skills.  
-Each repository reflects practical solutions for administrative and operational challenges.
-
-### 🔗 [Accounting Tracker System](https://github.com/votreprofil/projet-comptabilite)  
-A simplified system for monthly financial tracking, expenses, and reporting.  
-**Skills:** Excel, financial organization, data structuring.
+**💻 Outils**
+• Pack Office (Excel avancé, Word, PowerPoint)
+• Internet & outils collaboratifs
+• Gestion de contacts et CRM
 
 ---
 
-### 🔗 [Client CRM & Contact Organizer](https://github.com/votreprofil/projet-crm)  
-Database-style project to organize clients, track interactions, and support commercial follow-ups.  
-**Skills:** data management, organization, CRM fundamentals.
+## EXPÉRIENCES PROFESSIONNELLES
+
+**Responsable Scolarité & Comptabilité Interne**
+*ESPPRIT du Vakinankaratra (2020 – 2024)*
+• Gestion complète de la comptabilité interne
+• Reporting financier à la direction
+• Suivi fiscal et social
+• Administration des dossiers étudiants
+• Enseignement en comptabilité, marketing et GRH
+
+**Assistant en Comptabilité & Gestion de Données (Télétravail)**
+*Mission LinkedIn (2025)*
+• Traitement de données administratives
+• Organisation d'agendas
+• Saisie et structuration de contacts
+• Création de rapports
+• Transcription professionnelle
+
+**Responsable Commercial – Vente en Ligne**
+*Market Online (2025)*
+• Vente de matériels et formations en ligne
+• Gestion clientèle Facebook
+• Négociation et closing
+• Suivi des commandes
 
 ---
 
-### 🔗 [Admin Process Automation](https://github.com/votreprofil/projet-gestion-admin)  
-A digital workflow project to optimize administrative processes.  
-**Skills:** automation basics, workflow documentation.
+## PROJETS
+
+**Projet 1 – Système de Gestion Comptable Simplifié**
+🔗 https://github.com/votreprofil/projet-comptabilite
+Modèle structuré de suivi comptable mensuel incluant journal des opérations, suivi des dépenses, reporting automatisé et tableau de synthèse financière.
+*Compétences : Excel avancé, organisation comptable, structuration des données.*
+
+**Projet 2 – Base de Données Clients & CRM Simplifié**
+🔗 https://github.com/votreprofil/projet-crm
+Système de gestion client permettant l'organisation des contacts, suivi des rendez-vous, historique des échanges et analyse simple des performances commerciales.
+*Compétences : Gestion relation client, structuration base de données, organisation administrative.*
+
+**Projet 3 – Processus Digital de Gestion Administrative**
+🔗 https://github.com/votreprofil/projet-gestion-admin
+Système digital pour saisie automatisée de données, organisation documentaire et optimisation du flux administratif.
+*Compétences : Digitalisation, organisation, efficacité opérationnelle.*
 
 ---
 
-## 🌍 Why Work With Me
+## LANGUES
 
-✔ Remote-ready and responsive communication  
-✔ Positive results orientation  
-✔ Organized approach to tasks and deadlines  
-✔ Strong administrative and numerical skills  
-✔ Support tailored to each client’s operational needs  
-
-I aim to **bring value, increase productivity, and provide seamless virtual support** for remote teams or solo entrepreneurs.
+• **Malagasy** : Langue maternelle
+• **Français** : Courant
+• **Anglais** : Intermédiaire
+• **Chinois** : Intermédiaire
 
 ---
 
-## 📫 Let’s Get in Touch
+## OBJECTIF PROFESSIONNEL
 
-Interested in collaborating?  
-Contact me directly: **nirinafanomezantsoadaniel@gmail.com** 📩  
-I’m available for long-term contracts, hourly remote support, or project-based collaboration.
+Accompagner des entreprises, entrepreneurs et organisations dans la gestion administrative, comptable et commerciale à distance, en apportant rigueur, fiabilité et efficacité.
 
 ---
 
-*Thank you for visiting my GitHub profile — let’s work together to grow your business!*  
+## CONTACT
+
+📧 nirinafanomezantsoadaniel@gmail.com
+📞 +261 34 20 29 722
+💬 WhatsApp: +261342029722
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-andria-15875b278)
+🔗 [Facebook](https://www.facebook.com/daniel.andria.446021)
+
+*Disponible pour missions à distance - Délai de réponse < 24h*
